@@ -1,0 +1,14 @@
+ Volume in drive D is Workspace
+ Volume Serial Number is 0A51-9673
+
+ Directory of D:\git demo raghav
+
+12/03/2024  11:15 AM    <DIR>          .
+12/03/2024  11:15 AM    <DIR>          ..
+12/03/2024  11:15 AM                 0 h5.txt
+12/03/2024  10:11 AM                27 index.html
+12/27/2023  07:04 PM                 2 t1.txt
+12/28/2023  07:10 AM                 4 t2.txt
+12/03/2024  10:32 AM               486 test1.txt
+               5 File(s)            519 bytes
+               2 Dir(s)   3,840,974,848 bytes free
